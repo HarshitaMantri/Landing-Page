@@ -43,6 +43,5 @@ Footer Section
 - Copyright Information: Copyright notice and year
 
 This is just a rough outline, but it should give you an idea of what a product landing page for EcoCycle could look like. 
-# Image of landing page
-file:///C:/Users/Dell/OneDrive/Desktop/HTML/EcoCycle.html
+
 
