@@ -44,5 +44,5 @@ Footer Section
 
 This is just a rough outline, but it should give you an idea of what a product landing page for EcoCycle could look like. 
 # Image of landing page
-![image](https://github.com/user-attachments/assets/50fe4bf4-7969-4f9e-a5f0-446d0fd3dcbf)
+file:///C:/Users/Dell/OneDrive/Desktop/HTML/EcoCycle.html
 
