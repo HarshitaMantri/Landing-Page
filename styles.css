@@ -1,0 +1,90 @@
+CSS (in styles.css file):
+
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color:#8ed1fc;
+	padding: 20px;
+	text-align: center;
+}
+
+header h1 {
+	font-size: 36px;
+	margin-bottom: 10px;
+}
+
+header p {
+	font-size: 18px;
+	margin-bottom: 20px;
+}
+
+header button {
+	background-color: hsl(122, 39%, 49%);
+	color: #fff;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.hero {
+	background-image: linear-gradient(to bottom, #f0f0f0, #fff);
+	padding: 50px;
+	text-align: center;
+}
+
+.hero img {
+	width: 50%;
+	margin-bottom: 20px;
+}
+
+.features {
+	padding: 50px;
+}
+
+.feature {
+	margin-bottom: 20px;
+}
+
+.feature h3 {
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+
+.testimonials {
+	padding: 50px;
+	background-color: #f7f7f7;
+}
+
+.testimonial {
+	margin-bottom: 20px;
+	padding: 20px;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+}
+
+.cta {
+	padding: 50px;
+	text-align: center;
+}
+
+.cta button {
+	background-color: #4CAF50;
+	color: #fff;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+footer {
+	background-color: #f0f0f0;
+	padding: 20px;
+	text-align: center;
+	font-size: 14px;
+}
+
